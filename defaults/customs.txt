@@ -1,0 +1,3 @@
+Use this file to use custom data stored in this file.
+To get the best out of customizing the code please read the Python and Tkinter docs.
+You have the rights to use GWeather and GWeathers components in your code with credit.
